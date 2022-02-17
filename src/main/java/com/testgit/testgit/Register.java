@@ -8,4 +8,10 @@ public class Register {
 		
 	}
 
+public void a2()
+	
+	{
+		
+	}
+
 }
